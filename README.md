@@ -1,3 +1,1 @@
-This is E-commerce website
-Backed is based on Django
-Frontend is based on React
+This is E-commerce website based on React and Django
