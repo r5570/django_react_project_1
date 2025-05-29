@@ -1,4 +1,5 @@
 import React from "react";
+import './ProductCard.css'
 
 // component in React is just a JS function which returns JSX
 
